@@ -41,7 +41,7 @@ language <- R6::R6Class(
     language = "en",
     language_registered = c("en", "fr"),
     labels = list(
-      "Please authenticate" = "Please authenticate",
+      "Please authenticate" = "Please Log in",
       "Username:" = "Username:",
       "Password:" = "Password:",
       "Login" = "Login",
